@@ -36,6 +36,7 @@ declarative, monitored, backed up, and documented from its verified state.
 | Project | What it does |
 |---|---|
 | [g502-editor](https://github.com/compact161/g502-editor) | GTK 4 editor for the onboard profiles of the Logitech G502 X PLUS: buttons, G-Shift layer, DPI and lighting, through Solaar's library. |
+| [plasma-multimon-panel-sync](https://github.com/compact161/plasma-multimon-panel-sync) | Keeps KDE Plasma 6 panels in sync across multiple monitors: CLI, Kirigami window and tray icon. |
 
 ## Contributions
 
