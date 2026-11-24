@@ -39,8 +39,8 @@ declarative, monitored, backed up, and documented from its verified state.
 
 ## Contributions
 
-- [qFlipper](https://github.com/flipperdevices/qFlipper): fix for a stuck
-  remote-control key and a crash after disconnect.
+- [qFlipper #259](https://github.com/flipperdevices/qFlipper/pull/259): fix for
+  a stuck remote-control key and input after disconnect (open).
 
 ## AI use
 
